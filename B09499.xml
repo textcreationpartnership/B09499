@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By His Excellency a proclamation. Whereas His Majesty hath been graciously pleased, by his royal letter, bearing date the sixteenth day of October last past, to signifie that he hath received undoubted advice that a great and sudden invasion from Holland, with an armed force of forreigners and strangers, will speedily be made in an hostile manner upon His Majesty's kingdom of England ...</title>
+            <author>Territory and Dominion of New-England. President (1686-1689 : Andros)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09499</idno>
+            <idno type="STC">Wing M990AB</idno>
+            <idno type="STC">ESTC W8639</idno>
+            <idno type="EEBO-CITATION">69648758</idno>
+            <idno type="OCLC">ocm 69648758</idno>
+            <idno type="VID">184991</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09499)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184991)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2883:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By His Excellency a proclamation. Whereas His Majesty hath been graciously pleased, by his royal letter, bearing date the sixteenth day of October last past, to signifie that he hath received undoubted advice that a great and sudden invasion from Holland, with an armed force of forreigners and strangers, will speedily be made in an hostile manner upon His Majesty's kingdom of England ...</title>
+                  <author>Territory and Dominion of New-England. President (1686-1689 : Andros)</author>
+                  <author>Andros, Edmund, Sir, 1637-1714.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>by R. P.,</publisher>
+                  <pubPlace>Printed at Boston in New-England :</pubPlace>
+                  <date>[1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: "E. Andros."</note>
+                  <note>"Given at Fort-Charles at Pemaquid, the tenth day of January, in the fourth year of the reign of our sovereign Lord James the second, of England, Scotland, France and Ireland King, defender of the faith &amp;c."</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Massachusetts Historical Society Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Revolution of 1688 --  Sources.</term>
+               <term>United States --  History --  King William's War, 1689-1697 --  Sources.</term>
+               <term>Broadsides --  Massachusetts --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:184991:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal English blazon surmounted by a crown and flanked by the English lion and the Scottish unicorn</figDesc>
+               </figure>
+            </head>
+            <head>BY HIS EXCELLENCY A PROCLAMATION.</head>
+            <p>WHEREAS His MAJESTY hath been graciouſly pleaſed, by His Royal Letter, bearing Date the ſixteenth day of October laſt paſt, to ſignifie That He hath received undoubted Advice that a great and ſudden Invaſion from <hi>Holland,</hi> with an armed Force of Forreigners and Strangers, will ſpeedily be made in an hoſtile manner upon His Majeſty's Kingdom of <hi>ENGLAND;</hi> and that altho' ſome <hi>falſe</hi> pretences relating to <hi>Liberty, Property,</hi> and <hi>Religion,</hi> (contrived or worded with Art and Subtilty) may be given out, (as ſhall be thought uſeful upon ſuch an Attempt;) It is manifeſt however, (conſidering the great Preparations that are making) That no leſs matter by this <hi>Invaſion</hi> is propoſed and purpoſed, than an abſolute Conqueſt of His Majeſty's Kingdoms, and the utter Subduing and Subjecting His Majeſty and all His People to a Forreign Power, which is promoted (as His Majeſty underſtands) altho' it may ſeem almoſt incre<g ref="char:EOLhyphen"/>dible) by ſome of His Majeſty's <hi>Subjects,</hi> being perſons of wicked and reſtleſs Spirits, implacable Malice, and deſpe<g ref="char:EOLhyphen"/>rate Deſigns, who having no ſence of former inteſtine Diſtractions, (the Memory and Miſery whereof ſhould endear and put a Value upon that Peace and Happineſs which hath long been enjoyed) nor being moved by His Majeſty's reiterated Acts of Grace and Mercy, (wherein His Majeſty hath ſtudied and delighted to abound towards all His Subjects, and even towards <hi>thoſe</hi> who were once His Majeſty's avowed and open <hi>Enemies)</hi> do again endeavour to embroil His Majeſty's Kingdom in Blood and Ruin, to gratifie their own Ambition and Malice, propoſing to themſelves a Prey and Booty in ſuch a publick Confuſion:</p>
+            <p>And that although His Majeſty had Notice that a forreign Force was preparing againſt Him, yet His Majeſty hath alwaies declined any forreign Succour, but rather hath choſen (next under GOD) to rely upon the true and ancient Courage, Faith and Allegiance of His own People, with whom His Majeſty hath often ventured His Life for the Honour of His Nation, and in whoſe Defence againſt all Enemies His Majeſty is firmly reſol<g ref="char:EOLhyphen"/>ved to live and dye; and therefore does ſolemnly <hi>Conjure</hi> His Subjects to lay aſide all manner of Animoſities, Jealouſies, &amp; Prejudices, and heartily &amp; chearfully to <hi>
+                  <g ref="char:V">Ʋ</g>nite together</hi> in the Defence of His <hi>MAJESTY</hi> and their native Countrey, which thing alone, will (under GOD) defeat and fruſtrate the principal Hope and De<g ref="char:EOLhyphen"/>ſign of His Majeſty's Enemies, who expect to find His People divided; and by publiſhing (perhaps) ſome plau<g ref="char:EOLhyphen"/>ſible Reaſons of their Coming, as the ſpecious (tho' <hi>falſe)</hi> Pretences of Maintaining the Proteſtant Religion, or Aſſerting the Liberties and Properties of His Majeſty's People, do hope thereby to conquer that great and re<g ref="char:EOLhyphen"/>nowned Kingdom.</p>
+            <p>That albeit the Deſign hath been carried on with all imaginable Secreſie &amp; Endeavours to ſurpriſe and deceive His <hi>MAJESTY,</hi> HE hath not been wanting on His part to make ſuch proviſion as did become Him, and, by GOD's great Bleſſing, His Majeſty makes no doubt of being found in ſo good a Poſture that His Enemies may have cauſe to repent ſuch their raſh and <hi>unjuſt</hi> Attempt. ALL WHICH, it is His Majeſty's pleaſure, ſhould be made known in the moſt publick manner to His loving Subjects within this His Territory and Dominion of <hi>NEW-ENGLAND,</hi> that they may be the better prepared to reſiſt any Attempts that may be made by His Majeſties Enemies in theſe parts, and ſecured in their trade and Commerce with His Majeſty's Kingdom of <hi>England.</hi>
+            </p>
+            <p>I Do therefore, in purſuance of His <hi>MAJESTY</hi>'s Commands, by theſe Preſents <hi>make known</hi> and <hi>Publiſh</hi> the ſame accordingly: And hereby Charge and Command all Officers Civil &amp; Military, and all other His Majeſty's loving Subjects within this His Territory and Dominion aforeſaid, to be <hi>Vigilant</hi> and <hi>Careful</hi> in their reſpective places and ſtations, and that, upon the Approach of any Fleet or Forreign Force, they be in Readineſs, and uſe their utmoſt Endeavour to hinder any Landing or Invaſion that may be intended to be made within the ſame.</p>
+            <closer>
+               <dateline>
+                  <hi>Given</hi> at <hi>Fort-Charles</hi> at <hi>Pemaquid,</hi> 
+                  <date>the Tenth Day of <hi>January,</hi> in the Fourth year of the Reign of our Sovereign Lord <hi>JAMES</hi> the Second, of <hi>England, Scotland, France</hi> and <hi>Ireland</hi> KING, De<g ref="char:EOLhyphen"/>fender of the Faith <hi>&amp;c.</hi> Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> DOMINI 1688.</date>
+               </dateline> 
+               <signed>
+                  <hi>By. His</hi> EXCELLENCY's <hi>Command. JOHN WEST. d'.</hi> Secr'. E. ANDROS.</signed> 
+               <hi>GOD</hi> SAVE THE <hi>KING.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Boſton</hi> in <hi>New-England</hi> by <hi>R. P.</hi>
+            </p>
+            <pb facs="tcp:184991:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
